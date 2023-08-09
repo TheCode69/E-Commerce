@@ -25,10 +25,10 @@
             <ul class="links-container">
                 <li class="link-item"><a href="index.html" class="link">Home</a></li>
                 <li class="link-item"><a href="product.html" class="link">Product</a></li>
-                <li class="link-item"><a href="best-selling.html" class="link">Best Selling</a></li>
-                <li class="link-item"><a href="sign-up.html" class="link">Sign Up</a></li>
+                <li class="link-item"><a href="#" class="link">About</a></li>
+                <li class="link-item"><a href="#" class="link">Contact</a></li>
                 <li class="link-item"><a href="search.html" class="link">Search</a></li>
-           </ul>         
+            </ul>        
         </nav>
 
     <section class="product-details">
